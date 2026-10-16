@@ -1,0 +1,30 @@
+{
+  "name": "brandi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arperture/Brandi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arperture/Brandi/issues"
+  },
+  "homepage": "https://github.com/Arperture/Brandi#readme",
+  "dependencies": {
+    "@remotion/cli": "^4.0.536",
+    "@remotion/paths": "^4.0.536",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.536",
+    "typescript": "^5.6.3"
+  }
+}
